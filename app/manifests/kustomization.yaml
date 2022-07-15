@@ -5,9 +5,9 @@ namespace: app
 images:
 - name: zwensman/simple-app
   newName: zwensman/simple-app
-  newTag: v0.1.0
+  newTag: v0.0.1
 commonAnnotations:
-  version: v0.1.0
+  version: v0.0.1
 
 resources:
 - namespace.yaml
